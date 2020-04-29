@@ -1,3 +1,8 @@
+<var data-essay data-layout="vtl"></var>
+<var data-map data-basemap="Stamen_watercolor"></var>
+<var id="Q7224923"></var>
+<var id="Q13703" data-aliases="Mesoamerican"></var>
+
 # Vanilla planifolia
 
 ## Introduction
