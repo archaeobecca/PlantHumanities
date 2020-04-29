@@ -1,5 +1,5 @@
 <var data-essay data-layout="vtl"></var>
-<var data-map= title="globe" data-basemap="Stamen_Watercolor"></var>
+<var data-map title="globe" data-basemap="Stamen_Watercolor"></var>
 <var id="Q7224923"></var>
 <var id="Q13703" data-aliases="Mesoamerican"></var>
 
